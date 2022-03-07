@@ -1,0 +1,2 @@
+    print("What is you name stacker?")
+    name = sys.stdin.readline().strip()
