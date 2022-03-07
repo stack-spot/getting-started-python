@@ -26,4 +26,4 @@ lifecycle:
       python:
         check-command: python --version
         info: python is is not installed
-    deploy-command: python main.py ${stage}
+    deploy-command: python main.py
