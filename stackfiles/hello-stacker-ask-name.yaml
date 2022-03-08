@@ -1,5 +1,5 @@
 type: app
-description: Python application to greet the stacker asking his name
+description: Python application to greet the stacker asking its name
 template: getting-started-python/hello-stacker-app
 plugins:
   - plugin: getting-started-python/ask-stacker-name

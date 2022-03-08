@@ -1,5 +1,5 @@
 name: hello-stacker-app
-description: Python example template to crate an app that prints a greeting message to the stacker
+description: Python example template to create an app that prints a greeting message to the stacker
 types:
   - app-template
 inputs:
